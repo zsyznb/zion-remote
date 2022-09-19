@@ -1,7 +1,7 @@
 #!/bin/bash
 
 workdir=$PWD
-cd ../Zion
+cd /data/gohome/src/Zion
 make geth
 cp build/bin/geth $workdir
 
