@@ -1,6 +1,6 @@
 #!/bin/bash
 
-num=9
+num=1
 for i in $(seq 0 $num)
 do
     node="node"$i;
